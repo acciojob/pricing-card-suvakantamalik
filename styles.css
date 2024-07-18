@@ -1,1 +1,31 @@
 /*  your css code here. If applicable */
+body{
+	display: flex;
+}
+main{
+	border-radius:10px;
+	width:300px;
+	background-color:#d9d2ca;
+	box-shadow:8px 10px 8px rgba(0,0,0,0.3);
+	text-align: center;
+	
+}
+img{
+	margin-top:20px;
+	width:250px
+}
+#des{
+	font-family:cursive;
+	 margin-left: 32px; /* Left margin of 32px */
+    margin-right: 32px; /* Right margin of 32px */
+    padding: 10px; /* Padding on all sides */
+    padding-left: 20px; /* Additional left padding */
+    padding-right: 20px; /* Additional right padding */
+}
+button{
+	padding:20px;
+	margin-bottom: 30px;
+	background-color:#fa5f5f;
+	color: white;
+	border-radius:20px;
+}
